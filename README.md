@@ -4,7 +4,7 @@ This project is a simple JavaScript game where the player guesses a randomly gen
 
 Key Features:
 
-- Random Number Generation: The game generates a random number within a predefined range (e.g., 1 to 100).
+- Random Number Generation: The game generates a random number within a predefined range.
 - User Input: The player inputs their guess through an interactive interface.
 - Feedback System: After each guess, the game provides feedback to the player, indicating if their guess is too high, too low, or correct.
 - Attempts Counter: The game keeps track of the number of attempts made by the player.
