@@ -1,8 +1,8 @@
-Project Description: Guess the Number Game
+##Project Description: Guess the Number Game
 
 This project is a simple JavaScript game where the player guesses a randomly generated number within a specified range. The game interface prompts the player to input their guess, providing feedback on whether the guess is too high, too low, or correct.
 
-Key Features:
+##Key Features:
 
 - Random Number Generation: The game generates a random number within a predefined range.
 - User Input: The player inputs their guess through an interactive interface.
