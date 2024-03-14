@@ -14,4 +14,4 @@ This project is a simple JavaScript game where the player guesses a randomly gen
 *This project is a part of "The Complete JavaScript Course 2024: From Zero to Expert!" offered on Udemy, developed by Jonas Schmedtmann.*
 
 ## Deployed Project: 
-guess-my-number-dn.vercel.app
+https://guess-my-number-dn.vercel.app/
