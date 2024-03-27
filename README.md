@@ -11,6 +11,4 @@
 - Winning Condition: The game ends when the player correctly guesses the number.
 - Restart Option: After winning or exhausting all attempts, the player can choose to restart the game.
 
-Deployed Project: https://guess-my-number-dn.vercel.app/
-
 *This project is a part of "The Complete JavaScript Course 2024: From Zero to Expert!" offered on Udemy, developed by Jonas Schmedtmann.*
